@@ -4,6 +4,7 @@
 <img src="https://i.imgur.com/5Xa40IZ.png" alt="Logo" width="80" height="80">
 </a>
 <h3 align="center">MowBot</h3>
+<h2 align="center">THIS PROJECT IS GETTING COMPLETELY REDESIGNED FROM SCRATCH! (not public yet)</h2>
 <p align="center">
 An Open-Source DIY smart mowing robot powered by ROS
 
