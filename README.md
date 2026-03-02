@@ -36,7 +36,6 @@ The difference between my mower and any other commercially available mowers is t
 - [ ] App
 - [ ] Figure out the navigation (see folder nav)
 - [ ] Finish the mower 🎉
-- [ ] Start Selling!
 
 See the [open issues](https://github.com/Linuxhacker0001/MowBot/issues) for a full list of proposed features (and known issues).
  ## Contributing
