@@ -29,6 +29,7 @@ The difference between my mower and any other commercially available mowers is t
 
 - [Raspberry Pi (Brain)](https://www.raspberrypi.com/products/raspberry-pi-4-model-b/)
 - [ROS](https://www.ros.org/)
+- [C++](https://en.wikipedia.org/wiki/C%2B%2B)
 - [Python](https://www.python.org/)
 - [HTML](https://www.w3.org/html/)
  ## Roadmap
