@@ -1,6 +1,6 @@
 <p align="center">
   <h2 align="center">THIS PROJECT IS GETTING COMPLETELY REDESIGNED FROM SCRATCH!
-    <br/> <a href="https://github.com/Combustion-Robotics/MowBot/blob/jazzy/">Jazzy branch</a></h2>
+    <br/> <a href="https://github.com/Combustion-Robotics/MowBot/blob/jazzy">Jazzy branch</a></h2>
 <p align="center">
 
 <br/>
