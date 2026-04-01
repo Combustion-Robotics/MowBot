@@ -1,7 +1,3 @@
-<p align="center">
-  <h2 align="center">THIS PROJECT IS GETTING COMPLETELY REDESIGNED FROM SCRATCH!</h2>
-<p align="center">
-
 <br/>
 <div align="center">
 <a href="https://github.com/Linuxhacker0001/MowBot/">
